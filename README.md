@@ -40,4 +40,4 @@ Simulation performed using ModelSim / QuestaSim.
 
 ## Author
 Asif Levi  
-Electrical Engineering — Hebrew University o
+Electrical Engineering — Hebrew University of Jerusalem
